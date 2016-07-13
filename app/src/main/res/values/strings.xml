@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CancelBooking3 Updated</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="cant_connect_to_server">Tidak bisa menghubungi server</string>
+    <string name="please_check_your_internet_connection">Tidak ada koneksi internet</string>
+</resources>
+
